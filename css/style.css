@@ -26,6 +26,12 @@ div {
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+img{
+    float:left;
+}
+border{
+    color: blue;
+}
 
 @media only screen and (min-width: 100px) {
     /* For tablets: */
@@ -57,7 +63,7 @@ body{
     /* For desktop: will change the container class to orange*/
 
     .col {
-        background-color: rgb(245, 214, 239);
+        background-color: rgb(161, 187, 183);
     }
 }
 
