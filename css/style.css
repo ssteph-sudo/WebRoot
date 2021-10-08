@@ -20,9 +20,6 @@
 .col {
     display: table-cell; /* Make elements inside the container behave like table cells */
 } 
-div {
-   /* border: solid; */
-}
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
