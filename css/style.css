@@ -15,7 +15,8 @@
 
 .col-container {
     display: table; /* Make the container element behave like a table */
-    width: 80%; /* Set full-width to expand the whole page */
+    width: 100%; /* Set full-width to expand the whole page */
+    background-color: rgb(161, 187, 183);
 }
 
 .col {
